@@ -1,0 +1,3 @@
+-- Demo data is automatically inserted by backend/app/seed.py on first start.
+-- This file is kept as a reference so the database folder remains self-documenting.
+-- You do not need to run this file manually.
