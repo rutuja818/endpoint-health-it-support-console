@@ -157,8 +157,4 @@ These are development/demo credentials only. Change them for any real deployment
 - SQLite persistence
 - Bash system/network checks
 
-## Resume project title
-
-**Endpoint Health & IT Support System | Python, FastAPI, React, MySQL, Bash, Networking**
-
-Use resume claims only for features you have personally tested and can explain in an interview.
+#
